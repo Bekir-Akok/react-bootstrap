@@ -1,0 +1,176 @@
+.card-img-top{
+    height: 300px; 
+}
+
+.img-thumbnail{
+    border: none;
+    background-color:#730202 ;
+}
+
+.bepin{
+    color: bisque;
+    font-size: 30px;
+}
+
+.jumbotron{
+    background-color: #C4B69A;
+}
+
+.jumbotron-fluid{
+    margin:5px 0;
+} 
+
+#root{
+    background-color:#730202;
+}
+
+.navbar{
+    background-color:#094A5B ;
+}
+
+.dropdown-menu{
+    background-color: rgba(9, 74, 91, .7);
+}
+
+.dropdown-menu a{
+   color: white;
+}
+
+.card-deck .card{
+    margin:0 3px;
+    border: none;
+    background-color: #C4B69A;
+}
+
+p{
+    color: white;
+}
+
+h1,h2,h3,h4,h5,h6,div{
+    color: #094A5B;
+}
+
+.btn-primary{
+    background-color: #626973;
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: #403D39;
+    border: none;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.footer-div{
+    width: 100%;
+    background-color:#094A5B ;
+}
+
+.copy-right{
+    font-size: 20px;
+}
+
+.copy-right a{
+    color: bisque;
+    font-size:25px ;
+}
+
+.social{
+    display: flex;
+    font-size: 40px;    
+}
+
+.facebook{
+    color: #3b5998 ;
+}
+.twitter{
+    color: #00acee;
+    margin-left: 40px;
+}
+.github{
+    color: #171515;
+    margin-left: 40px;
+}
+.youtube{
+    color: #c4302b;
+    margin-left: 40px;
+}
+
+.chevron-up{
+    font-size: 40px;
+    color: #fff;
+}
+
+.contact-background{
+    background-image: url(./img/antoine-barres-jay5BqVyf5A-unsplash.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact-background form{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contact-container{
+    padding-top: 300px ;
+
+}
+
+.name{
+    background-color: transparent;
+    border: none;
+    border-bottom: 4px solid #094A5B;
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+.email{
+    background-color: transparent;
+    border: none;
+    border-bottom: 4px solid #094A5B;
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+.message{
+    background-color: transparent;
+    border: none;
+    border-bottom: 4px solid #094A5B;
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+.button{
+    background-color:  #626973;
+    color: #fff;
+    width: 100px;
+    height: 35px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    border-radius: 5px;
+    border: none;
+    
+}
+
+@media only screen and (max-width:780px) {
+
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+}
+
