@@ -1,3 +1,9 @@
+Neler Kullandım/Öğrendim ?
+
+Temel react kavramları Class component Functional component bunlara bağlı olarak props ve stateler ile birlikte reacte giriş konularının hepsini kapsayan bir çalışma oldu.
+Aynı zamanda Reactstrap kütüphanesi kullanılarak hazırlandı.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
