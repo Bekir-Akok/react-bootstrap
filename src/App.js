@@ -23,20 +23,20 @@ const App = () => {
             <CardDeck>
             <Cards
             textTitle= "Prop Text Title I"
-            textMain= "This is a wider card with supporting text below as a natural lead-in to
-            additional content. This content is a little bit longer.Props I"
+            textMain= "This is a wider card with supporting text below as a natural lead-in to"
+            additional= "content. This content is a little bit longer.Props I"
             lastMinute="Last updated 3 mins ago"
             src={slide1}/>
             <Cards
             textTitle= "Prop Text Title II"
-            textMain= "This is a wider card with supporting text below as a natural lead-in to
-            additional content. This content is a little bit longer.Props II"
+            textMain= "This is a wider card with supporting text below as a natural lead-in to"
+            additional ="content. This content is a little bit longer.Props II"
             lastMinute="Last updated 4 mins ago"
             src={slide2}/>
             <Cards
             textTitle= "Prop Text Title III"
-            textMain= "This is a wider card with supporting text below as a natural lead-in to
-            additional content. This content is a little bit longer.Props III"
+            textMain= "This is a wider card with supporting text below as a natural lead-in to"
+            additional = "content. This content is a little bit longer.Props III"
             lastMinute="Last updated 5 mins ago"
             src={slide3}/>
             </CardDeck>
